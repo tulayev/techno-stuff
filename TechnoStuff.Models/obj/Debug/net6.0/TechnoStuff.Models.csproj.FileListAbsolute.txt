@@ -1,0 +1,12 @@
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\bin\Debug\net6.0\TechnoStuff.Models.deps.json
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\bin\Debug\net6.0\TechnoStuff.Models.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\bin\Debug\net6.0\ref\TechnoStuff.Models.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\bin\Debug\net6.0\TechnoStuff.Models.pdb
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\TechnoStuff.Models.csproj.AssemblyReference.cache
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\TechnoStuff.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\TechnoStuff.Models.AssemblyInfoInputs.cache
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\TechnoStuff.Models.AssemblyInfo.cs
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\TechnoStuff.Models.csproj.CoreCompileInputs.cache
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\TechnoStuff.Models.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\ref\TechnoStuff.Models.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Models\obj\Debug\net6.0\TechnoStuff.Models.pdb

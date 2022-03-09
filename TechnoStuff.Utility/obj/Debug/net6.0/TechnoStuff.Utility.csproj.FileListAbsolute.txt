@@ -1,0 +1,12 @@
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\bin\Debug\net6.0\TechnoStuff.Utility.deps.json
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\bin\Debug\net6.0\TechnoStuff.Utility.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\bin\Debug\net6.0\ref\TechnoStuff.Utility.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\bin\Debug\net6.0\TechnoStuff.Utility.pdb
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\TechnoStuff.Utility.csproj.AssemblyReference.cache
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\TechnoStuff.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\TechnoStuff.Utility.AssemblyInfoInputs.cache
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\TechnoStuff.Utility.AssemblyInfo.cs
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\TechnoStuff.Utility.csproj.CoreCompileInputs.cache
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\TechnoStuff.Utility.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\ref\TechnoStuff.Utility.dll
+C:\Users\umarbek-win10\Desktop\TechnoStuff\TechnoStuff.Utility\obj\Debug\net6.0\TechnoStuff.Utility.pdb
