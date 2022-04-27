@@ -1,21 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TechnoStuff.DataAccess.Data;
+using TechnoStuff.DataAccess.Repository.IRepository;
 using TechnoStuff.Models;
 
 namespace TechnoStuffWeb.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ApplicationDbContext _db;
+        private readonly ICategoryRepository _db;
 
-        public CategoryController(ApplicationDbContext db)
+        public CategoryController(ICategoryRepository db)
         {
             _db = db;
         }
 
         public IActionResult Index()
         {
-            IEnumerable<Category> categories = _db.Categories.ToList();
+            IEnumerable<Category> categories = _db.GetAll();
 
             return View(categories);
         }
@@ -31,8 +31,8 @@ namespace TechnoStuffWeb.Controllers
         {
             if (ModelState.IsValid)
             {
-                _db.Categories.Add(category);
-                _db.SaveChanges();
+                _db.Add(category);
+                _db.Save();
                 TempData["success"] = "Category has been created successfully!";
                 return RedirectToAction("Index");
             }
@@ -47,7 +47,7 @@ namespace TechnoStuffWeb.Controllers
                 return NotFound();
             }
 
-            Category category = _db.Categories.Find(id);
+            var category = _db.GetFirstOrDefault(c => c.Id == id);
 
             if (category == null)
             {
@@ -63,8 +63,8 @@ namespace TechnoStuffWeb.Controllers
         {
             if (ModelState.IsValid)
             {
-                _db.Categories.Update(category);
-                _db.SaveChanges();
+                _db.Update(category);
+                _db.Save();
                 TempData["success"] = "Category has been updated successfully!";
                 return RedirectToAction("Index");
             }
@@ -74,15 +74,15 @@ namespace TechnoStuffWeb.Controllers
 
         public IActionResult Destroy(int? id)
         {
-            Category category = _db.Categories.Find(id);
+            var category = _db.GetFirstOrDefault(c => c.Id == id);
 
             if (category == null)
             {
                 return NotFound();
             }
 
-            _db.Categories.Remove(category);
-            _db.SaveChanges();
+            _db.Remove(category);
+            _db.Save();
             TempData["success"] = "Category has been deleted successfully!";
             return RedirectToAction("Index");
         }
