@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnoStuffWeb", "TechnoStuffWeb\TechnoStuffWeb.csproj", "{65B61952-EBA6-4E9C-81EA-CA6430F16392}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoStuff.DataAccess", "TechnoStuff.DataAcess\TechnoStuff.DataAccess.csproj", "{A910875F-FB62-4067-9461-14109AE8A286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnoStuff.DataAccess", "TechnoStuff.DataAcess\TechnoStuff.DataAccess.csproj", "{A910875F-FB62-4067-9461-14109AE8A286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoStuff.Models", "TechnoStuff.Models\TechnoStuff.Models.csproj", "{04BDB2A3-AC82-4BDC-A637-6E9EF75E07F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnoStuff.Models", "TechnoStuff.Models\TechnoStuff.Models.csproj", "{04BDB2A3-AC82-4BDC-A637-6E9EF75E07F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoStuff.Utility", "TechnoStuff.Utility\TechnoStuff.Utility.csproj", "{2F22E2BD-A56F-4BB8-B0A8-4F535AF3B419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechnoStuff.Utility", "TechnoStuff.Utility\TechnoStuff.Utility.csproj", "{2F22E2BD-A56F-4BB8-B0A8-4F535AF3B419}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
